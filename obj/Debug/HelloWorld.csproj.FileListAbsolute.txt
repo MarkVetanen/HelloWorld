@@ -7,3 +7,6 @@ D:\Visual-Studio-Projects-2012\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
 C:\Visual Studio Projects\HelloWorld\bin\Debug\HelloWorld.exe.config
 C:\Visual Studio Projects\HelloWorld\obj\Debug\HelloWorld.exe
 C:\Visual Studio Projects\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\CZ Test Projects\Hello World\bin\Debug\HelloWorld.exe.config
+D:\CZ Test Projects\Hello World\obj\Debug\HelloWorld.exe
+D:\CZ Test Projects\Hello World\obj\Debug\HelloWorld.pdb
